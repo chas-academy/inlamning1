@@ -37,7 +37,7 @@ function showContacts(contactBook, groupToShow) { // Rör ej denna kod
 
     // Loopar igenom alla kontakter och jämför grupp
    
-    return console.log() // här ska sträng med namn och tekefonnummer visas
+    return  // här ska sträng med namn och tekefonnummer visas i form av string interpolation stå
 
 
 }
