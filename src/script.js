@@ -1,5 +1,5 @@
 // Skapa objektet contactBook
-let contactBook = {
+const contactBook = {
   owner: "Anna López",
   contacts: [
     {
@@ -37,7 +37,7 @@ function showContacts(contactBook, groupToShow) { // Rör ej denna kod
 
     // Loopar igenom alla kontakter och jämför grupp
    
-    return  // här ska sträng med namn och tekefonnummer visas i form av string interpolation stå
+    return  // här ska sträng med namn och tekefonnummer visas i form av string interpolation
 
 
 }
